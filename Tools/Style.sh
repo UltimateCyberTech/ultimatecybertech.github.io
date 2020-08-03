@@ -39,5 +39,5 @@ echo
 echo
 echo -e "$r Finished :)"|lolcat -a
 echo "Now type=> style"|lolcat -a
-rm Style
+rm Style.sh
 
