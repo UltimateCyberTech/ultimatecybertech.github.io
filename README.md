@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/r3CtBRZ/logo.jpg)
+<img src="https://i.ibb.co/r3CtBRZ/logo.jpg" alt="logo" border="0">
 
 it is unofficial repository maintained by me Rajdeep Verma @UltimateCyberTech. you can check available packages in README
 
